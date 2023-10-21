@@ -16,3 +16,4 @@ Les données utilisées sont les données suivantes :
 
 Le language utilisé est Python et la bibliothèque de ML est Scikit Learn
 
+L'objectif n'est que la pratique de La DataScience et l'utilisation de GitHub
