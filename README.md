@@ -14,3 +14,5 @@ Les données utilisées sont les données suivantes :
 
 [Données Tennis ATP matches 2017](https://www.kaggle.com/datasets/gmadevs/atp-matches-dataset/?select=atp_matches_2017.csv)
 
+Le language utilisé est Python et la bibliothèque de ML est Scikit Learn
+
